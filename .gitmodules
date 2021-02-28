@@ -1,0 +1,36 @@
+[submodule "benchmarks/E3SM"]
+	path = benchmarks/E3SM
+	url = git@github.com:KKraljic/E3SM.git
+[submodule "benchmarks/ExaML"]
+	path = benchmarks/ExaML
+	url = git@github.com:KKraljic/ExaML.git
+[submodule "benchmarks/FIRESTARTER"]
+	path = benchmarks/FIRESTARTER
+	url = git@github.com:KKraljic/FIRESTARTER.git
+[submodule "benchmarks/gadget4"]
+	path = benchmarks/gadget4
+	url = git@github.com:KKraljic/gadget4.git
+[submodule "benchmarks/hpcc"]
+	path = benchmarks/hpcc
+	url = git@github.com:KKraljic/hpcc.git
+[submodule "benchmarks/hpl-2.3"]
+	path = benchmarks/hpl-2.3
+	url = git@github.com:KKraljic/hpl-2.3.git
+[submodule "benchmarks/milc_qcd"]
+	path = benchmarks/milc_qcd
+	url = git@github.com:KKraljic/milc_qcd.git
+[submodule "benchmarks/rodonia-3-1"]
+	path = benchmarks/rodonia-3-1
+	url = git@github.com:KKraljic/rodonia-3-1.git
+[submodule "benchmarks/shoc"]
+	path = benchmarks/shoc
+	url = git@github.com:KKraljic/shoc.git
+[submodule "benchmarks/WRF"]
+	path = benchmarks/WRF
+	url = git@github.com:KKraljic/WRF.git
+[submodule "measurement-tools/likwid"]
+	path = measurement-tools/likwid
+	url = git@github.com:KKraljic/likwid.git
+[submodule "measurement-tools/powerapi"]
+	path = measurement-tools/powerapi
+	url = git@github.com:KKraljic/powerapi.git
