@@ -34,3 +34,6 @@
 [submodule "measurement-tools/powerapi"]
 	path = measurement-tools/powerapi
 	url = git@github.com:KKraljic/powerapi.git
+[submodule "measurement-tools/rocm_smi_lib"]
+	path = measurement-tools/rocm_smi_lib
+	url = git@github.com:RadeonOpenCompute/rocm_smi_lib.git
